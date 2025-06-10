@@ -26,3 +26,5 @@ Getting Started
 1. Download and run the app.
 
 Why has this been depricated? -David Kristaisen
+
+Can I comment as an instructor?
